@@ -15,7 +15,7 @@ Turn a long podcast, interview or YouTube video into vertical, captioned Shorts/
 
 ## Install
 
-Needs **Python 3.12** and **ffmpeg** on your PATH.
+Needs **Python 3.12**, **ffmpeg** and **Node.js** on your PATH (Node lets yt-dlp solve YouTube's download challenge; without it downloads get throttled or fail).
 
 ```bash
 git clone https://github.com/Sahil-Gupta582/clipkaro.git
